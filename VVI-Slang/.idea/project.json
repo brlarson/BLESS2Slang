@@ -1,0 +1,45 @@
+{
+  "type" : "Project",
+  "modules" : {
+    "type" : "HashSMap",
+    "size" : 1,
+    "entries" : [
+      [
+        "PG_i_Instance",
+        {
+          "type" : "Module",
+          "id" : "PG_i_Instance",
+          "basePath" : "\/Users\/brianlarson\/git\/BLESStoSlang\/VVI-Slang\/src",
+          "subPathOpt" : {
+            "type" : "None"
+          },
+          "deps" : [],
+          "targets" : [
+            {
+              "type" : "Target",
+              "value" : "Jvm"
+            }
+          ],
+          "ivyDeps" : ["org.sireum.kekinian::library:", "com.github.kurbatov:firmata4j:", "io.github.java-native:jssc:", "com.github.kurbatov:firmata4j:"],
+          "sources" : ["main\/art", "main\/architecture", "main\/bridge", "main\/component", "main\/data", "main\/nix", "main\/seL4Nix"],
+          "resources" : [],
+          "testSources" : ["test\/bridge", "test\/util"],
+          "testResources" : [],
+          "publishInfoOpt" : {
+            "type" : "None"
+          }
+        }
+      ]
+    ]
+  },
+  "poset" : {
+    "type" : "Poset",
+    "nodes" : [],
+    "parents" : {
+      "type" : "HashSMap",
+      "size" : 0,
+      "entries" : [  ]
+    }
+  },
+  "mavenRepoUrls" : []
+}
