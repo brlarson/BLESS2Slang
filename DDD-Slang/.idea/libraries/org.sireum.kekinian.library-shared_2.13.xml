@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="org.sireum.kekinian.library-shared_2.13">
     <CLASSES>
-      <root url="jar:///Users/brianlarson/git3/Sireum/lib/cache/https/jitpack.io/org/sireum/kekinian/library-shared_2.13/5b462ddb00/library-shared_2.13-5b462ddb00.jar!/" />
+      <root url="jar:///Users/brianlarson/.m2/repository/org/sireum/kekinian/library-shared_2.13/e1a554603d/library-shared_2.13-e1a554603d.jar!/" />
     </CLASSES>
     <SOURCES>
-      <root url="jar:///Users/brianlarson/git3/Sireum/lib/cache/https/jitpack.io/org/sireum/kekinian/library-shared_2.13/5b462ddb00/library-shared_2.13-5b462ddb00-sources.jar!/" />
+      <root url="jar:///Users/brianlarson/.m2/repository/org/sireum/kekinian/library-shared_2.13/e1a554603d/library-shared_2.13-e1a554603d-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
