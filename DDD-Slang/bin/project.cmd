@@ -63,6 +63,7 @@ val slangModule: Module = Module(
   targets = ISZ(Target.Jvm),
   ivyDeps = ISZ("org.sireum.kekinian::library:",
     "io.github.java-native:jssc:",
+    "com.github.Fazecast:jSerialComm:",
     "com.github.kurbatov:firmata4j:"),
   sources = for(m <- ISZ("art", "architecture", "bridge", "component", "data", "nix", "seL4Nix")) yield (Os.path("main") / m).string,
   resources = ISZ(),

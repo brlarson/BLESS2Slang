@@ -13,7 +13,7 @@
       <root url="jar:///Users/brianlarson/git3/Sireum/bin/scala/lib/scala-reflect.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="https://www.scala-lang.org/api/2.13.12/" />
+      <root url="https://www.scala-lang.org/api/2.13.13/" />
     </JAVADOC>
     <SOURCES />
   </library>

@@ -4,6 +4,6 @@
     <option name="USE_RELEASE_OPTION" value="false" />
   </component>
   <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_STRING" value="-source 1.8 -target 1.8 -encoding utf8 -XDignore.symbol.file -Xlint:-options -Xlint:deprecation" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-source 1.8 -target 1.8 -encoding utf8 -XDignore.symbol.file -Xlint:-options -Xlint:deprecation -proc:none" />
   </component>
 </project>

@@ -1,18 +1,14 @@
 {
   "type" : "HashSMap",
-  "size" : 44,
+  "size" : 46,
   "entries" : [
     [
       "com.lihaoyi::os-lib:",
-      "0.9.1"
+      "0.9.3"
     ],
     [
       "org.sireum.version.plugin.rest",
-      "true,true,false,364040"
-    ],
-    [
-      "org.sireum.version.zulu",
-      "21.28.85-ca-fx-jdk21.0.0"
+      "true,false,false,445747"
     ],
     [
       "org.scala-lang.modules::scala-parallel-collections:",
@@ -20,39 +16,39 @@
     ],
     [
       "org.sireum.version.checkstack",
-      "v6.5"
+      "v6.8"
     ],
     [
       "org.sireum.version.plugin.scala",
-      "true,false,false,389223"
+      "true,false,false,484850"
     ],
     [
       "org.sireum.version.plugin.toml",
-      "true,false,false,364047"
+      "true,false,false,454584"
     ],
     [
       "org.sireum.version.plugin.sireum-intellij-plugin",
-      "true,false,false,4.20230919.d75cfee"
+      "true,false,false,4.20240306.694cf78"
     ],
     [
       "org.sireum.version.plugin.sireum-intellij-injector",
-      "true,false,true,4.20230818.72e649a"
+      "true,false,true,4.20240304.23386fe"
     ],
     [
       "org.sireum.version.coursier",
-      "2.1.7"
+      "2.1.8"
     ],
     [
       "org.sireum.version.z3",
-      "4.12.2"
+      "4.13.0"
     ],
     [
       "org.scalameta::scalameta::",
-      "4.8.10"
+      "4.9.1"
     ],
     [
       "org.sireum.version.cvc",
-      "5-1.0.8,4-1.8"
+      "5-1.1.2,4-1.8"
     ],
     [
       "org.antlr:antlr-runtime:",
@@ -64,23 +60,19 @@
     ],
     [
       "org.scalameta::scalafmt-cli:",
-      "3.7.14"
+      "3.8.0"
     ],
     [
       "org.sireum.version.idea",
-      "2023.2.2"
+      "2023.3.4"
     ],
     [
       "org.sireum.version.plugin.ksu-cis-706-jdt-astview",
       "true,false,false,0.0.2"
     ],
     [
-      "org.sireum.version.plugin.asm",
-      "true,false,false,369173"
-    ],
-    [
       "org.scala-js:::scalajs-compiler:",
-      "1.13.2"
+      "1.15.0"
     ],
     [
       "com.lihaoyi::scalatags::",
@@ -92,7 +84,7 @@
     ],
     [
       "org.kohsuke:github-api:",
-      "1.316"
+      "1.319"
     ],
     [
       "org.scala-lang.modules::scala-java8-compat:",
@@ -100,31 +92,35 @@
     ],
     [
       "org.sireum.version.plugin.terminal",
-      "true,false,false,378999"
+      "true,false,false,455073"
     ],
     [
       "org.sireum::scalac-plugin:",
       "4.20230828.9aebc14"
     ],
     [
+      "org.sireum.version.plugin.devkit",
+      "true,false,false,493756"
+    ],
+    [
       "org.ow2.asm:asm:",
-      "9.5"
+      "9.6"
     ],
     [
       "org.sireum.version.jacoco",
-      "0.8.10"
-    ],
-    [
-      "org.sireum.version.alt-ergo-open",
-      "2.3.3"
+      "0.8.11"
     ],
     [
       "org.sireum.version.plugin.rust",
-      "false,true,false,397545"
+      "false,false,false,498174"
     ],
     [
       "org.scala-js::scalajs-dom::",
-      "2.7.0"
+      "2.8.0"
+    ],
+    [
+      "org.sireum.version.java",
+      "21.0.2+14"
     ],
     [
       "org.sireum:presentasi-jfx:",
@@ -132,23 +128,35 @@
     ],
     [
       "org.sireum.version.plugin.antlr",
-      "true,false,false,314207"
+      "true,false,false,501581"
     ],
     [
       "org.sireum.version.plugin.native-debug",
-      "false,false,false,390470"
+      "false,false,false,474318"
+    ],
+    [
+      "org.antlr:antlr4-runtime:",
+      "4.13.1"
     ],
     [
       "org.apache.commons:commons-compress:",
-      "1.22"
+      "1.26.1"
     ],
     [
       "org.scalatest::scalatest::",
       "3.2.16"
     ],
     [
+      "org.sireum.version.plugin.plantuml",
+      "true,false,false,491629"
+    ],
+    [
       "org.scala-lang:scala-library:",
       "2.13.11"
+    ],
+    [
+      "org.sireum.version.plugin.sireum-intellij-asm",
+      "true,false,false,9.6"
     ],
     [
       "org.sireum.kekinian::library:",
