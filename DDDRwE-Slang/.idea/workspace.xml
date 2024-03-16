@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b792a38c-f048-4cc1-912d-6acf6f911b29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/com.github.kurbatov.firmata4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/com.github.kurbatov.firmata4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.scream3r.jssc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.scream3r.jssc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.library-shared_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.library-shared_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.library_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.library_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.macros_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.macros_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.test_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/libraries/org.sireum.kekinian.test_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/versions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.github.kurbatov.firmata4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.github.kurbatov.firmata4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scream3r.jssc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scream3r.jssc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/versions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/bin/sergen.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/bin/sergen.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/bin/slangcheck.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/bin/slangcheck.cmd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Y853yVDxXeBqLkkPcBstmqjjV9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/brianlarson/git/BLESS2Slang/DDDRwE-Slang&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="bless.Demo" />
+      <module name="PG_imp_Instance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bless.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaAmmoniteRunConfigurationType" factoryName="Ammonite" singleton="false">
+      <setting name="execName" value="$USER_HOME$/git3/Sireum/bin/slang-run.sh" />
+      <setting name="fileName" value="" />
+      <setting name="scriptParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Slang Script Runner" />
+      <item itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="autoRunDelay" value="3000" />
+    <option name="dontCacheCompoundTypes" value="true" />
+    <option name="inProcessMode" value="false" />
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+    <option name="metaTrimMethodBodies" value="false" />
+    <option name="scFileMode" value="Ammonite" />
+    <option name="scalaMetaMode" value="Disabled" />
+    <option name="showNotFoundImplicitArguments" value="false" />
+    <option name="trailingCommasMode" value="Enabled" />
+    <option name="treatDocCommentAsBlockComment" value="true" />
+    <option name="treatScratchFilesAsWorksheet" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b792a38c-f048-4cc1-912d-6acf6f911b29" name="Changes" comment="" />
+      <created>1699894170269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699894170269</updated>
+    </task>
+    <servers />
+  </component>
+</project>

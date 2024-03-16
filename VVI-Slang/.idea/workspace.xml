@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa326d36-99b1-43d5-8d31-e6d504bf489f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2dk3jzsCuyO4W7vSuaHC3bcISmN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Demo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="bless.Demo" />
+      <module name="PG_i_Instance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bless.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaAmmoniteRunConfigurationType" factoryName="Ammonite" singleton="false">
+      <setting name="execName" value="$USER_HOME$/git3/Sireum/bin/slang-run.sh" />
+      <setting name="fileName" value="" />
+      <setting name="scriptParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Slang Script Runner" />
+      <item itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="autoRunDelay" value="3000" />
+    <option name="dontCacheCompoundTypes" value="true" />
+    <option name="inProcessMode" value="false" />
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+    <option name="metaTrimMethodBodies" value="false" />
+    <option name="scFileMode" value="Ammonite" />
+    <option name="scalaMetaMode" value="Disabled" />
+    <option name="showNotFoundImplicitArguments" value="false" />
+    <option name="trailingCommasMode" value="Enabled" />
+    <option name="treatDocCommentAsBlockComment" value="true" />
+    <option name="treatScratchFilesAsWorksheet" value="false" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa326d36-99b1-43d5-8d31-e6d504bf489f" name="Changes" comment="" />
+      <created>1710538387328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710538387328</updated>
+    </task>
+    <servers />
+  </component>
+</project>
