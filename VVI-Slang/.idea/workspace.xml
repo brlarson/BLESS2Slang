@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa326d36-99b1-43d5-8d31-e6d504bf489f" name="Changes" comment="" />
+    <list default="true" id="fa326d36-99b1-43d5-8d31-e6d504bf489f" name="Changes" comment="add src?">
+      <change beforePath="$PROJECT_DIR$/src/main/art/art/Art.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/art/art/Art.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/RateControl_pp_rc_Bridge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/RateControl_pp_rc_Bridge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/VVI_i_pp_t_Bridge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/VVI_i_pp_t_Bridge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/VVI_i_pp_t.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/VVI_i_pp_t.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/vvi_mode/CardiacDuration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/data/bless/vvi_mode/CardiacDuration.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,22 +22,22 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dk3jzsCuyO4W7vSuaHC3bcISmN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="bless.Demo" />
@@ -53,8 +59,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Slang Script Runner" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Slang Script Runner" />
     </list>
     <recent_temporary>
       <list>

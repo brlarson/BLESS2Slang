@@ -15,7 +15,7 @@ import art.Art
 
 object CardiacDuration {
   def example(): vvi_mode.CardiacDuration =
-    { return vvi_mode.CardiacDuration(f64"0.2") }
+    { return vvi_mode.CardiacDuration(f64"0.4") }
 }
 
 @datatype class CardiacDuration(

@@ -25,8 +25,8 @@ object VVI_i_pp_t
 
   var currentState: CompleteStates.Type = CompleteStates.power_on_state
 
-  var last_beat: F64 = f64"0.3"
-  var timeout_id : Art.PortId = Art.PortId.fromZ(Art.numPorts - 2)
+  var last_beat: F64 = f64"0.5"
+  var timeout_id : Art.PortId = Art.PortId.fromZ(Art.numPorts - 3)
   val timeout_n_p_lrl_Id : Art.PortId = timeout_id+Art.PortId.fromZ(1)
   var dispatch_status: Set[art.Art.PortId] = Set.empty  //local copy of Dispatch_Status
 

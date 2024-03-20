@@ -96,7 +96,7 @@ object VVI_i_pp_t_Bridge {
 
   var event_set : Set[Art.PortId] = Set.empty[Art.PortId]
 
-  var timeout_id : Art.PortId = Art.PortId.fromZ(Art.numPorts - 2)
+  var timeout_id : Art.PortId = Art.PortId.fromZ(Art.numPorts - 3)
 
   //timeout variables
   val timeout_n_p_lrl_ID : Art.PortId = timeout_id+Art.PortId.fromZ(1)

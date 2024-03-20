@@ -78,7 +78,7 @@ object RateControl_pp_rc_Bridge {
 
   var event_set : Set[Art.PortId] = Set.empty[Art.PortId]
 
-  var timeout_id : Art.PortId = Art.PortId.fromZ(Art.numPorts - 2)
+  var timeout_id : Art.PortId = Art.PortId.fromZ(Art.numPorts - 3)
 
 
 
