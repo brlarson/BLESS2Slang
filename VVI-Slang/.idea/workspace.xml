@@ -4,12 +4,130 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa326d36-99b1-43d5-8d31-e6d504bf489f" name="Changes" comment="add src?">
-      <change beforePath="$PROJECT_DIR$/src/main/art/art/Art.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/art/art/Art.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/RateControl_pp_rc_Bridge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/RateControl_pp_rc_Bridge.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/VVI_i_pp_t_Bridge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/VVI_i_pp_t_Bridge.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/VVI_i_pp_t.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/VVI_i_pp_t.scala" afterDir="false" />
+    <list default="true" id="bd926d5e-c521-4987-806a-4ce7d634b520" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/firmata4j_2_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org.antlr.antlr4-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.mdoc-parser_2.13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.hamr-vision_2.13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/bridge/bless/PG/FrontEnd_Api.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/bridge/bless/PG/FrontEnd_fe_Bridge.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/component/bless/PG/FrontEndNative_Ext.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/component/bless/PG/FrontEnd_fe.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDD-Slang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDD-Slang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Scala.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Scala.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.fasterxml.jackson.core.jackson-annotations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.fasterxml.jackson.core.jackson-annotations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.fasterxml.jackson.core.jackson-core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.fasterxml.jackson.core.jackson-core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.fasterxml.jackson.core.jackson-databind.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.fasterxml.jackson.core.jackson-databind.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.geirsson.metaconfig-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.geirsson.metaconfig-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.geirsson.metaconfig-pprint_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.geirsson.metaconfig-pprint_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.geirsson.metaconfig-typesafe-config_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.geirsson.metaconfig-typesafe-config_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.github.kurbatov.firmata4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.lihaoyi.fansi_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.lihaoyi.fansi_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.lihaoyi.os-lib_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.lihaoyi.os-lib_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.lihaoyi.sourcecode_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.lihaoyi.sourcecode_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.thesamet.scalapb.lenses_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.thesamet.scalapb.lenses_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.thesamet.scalapb.scalapb-runtime_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.thesamet.scalapb.scalapb-runtime_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com.typesafe.config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/com.typesafe.config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons-io.commons-io.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons-io.commons-io.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/io.github.java-native.jssc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.apache.commons.commons-compress.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.apache.commons.commons-compress.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.apache.commons.commons-lang3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.apache.commons.commons-lang3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.jline.jline.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.jline.jline.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.kohsuke.github-api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.kohsuke.github-api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.ow2.asm.asm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.ow2.asm.asm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scala-lang.modules.scala-collection-compat_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scala-lang.modules.scala-collection-compat_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scala-lang.scalap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scala-lang.scalap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalactic.scalactic_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalactic.scalactic_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.common_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.common_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.parsers_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.parsers_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-cli_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-cli_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-config_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-config_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-dynamic_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-dynamic_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-interfaces.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-interfaces.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-sysops_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalafmt-sysops_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalameta_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.scalameta_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalameta.trees_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalameta.trees_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-compatible.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-compatible.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-diagrams_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-diagrams_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-featurespec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-featurespec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-flatspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-flatspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-freespec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-freespec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-funspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-funspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-funsuite_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-funsuite_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-matchers-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-matchers-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-mustmatchers_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-mustmatchers_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-propspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-propspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-refspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-refspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-shouldmatchers_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-shouldmatchers_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-wordspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest-wordspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.scalatest.scalatest_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scijava.native-lib-loader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.scream3r.jssc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.library-shared_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.library-shared_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.library_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.library_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.macros_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.macros_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.test_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.sireum.kekinian.test_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.slf4j.slf4j-api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org.typelevel.paiges-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org.typelevel.paiges-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/PG_i_Instance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/PG_i_Instance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/VVI-Slang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/VVI-Slang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project.old.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/versions.old.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/project.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/bin/project.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/architecture/bless/Demo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/architecture/bless/Demo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/FrontEnd_Api.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/bridge/bless/vvi_mode/FrontEnd_fe_Bridge.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/UNO/FirmataUtil.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/component/bless/UNO/FirmataUtil.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/UNO/UNOBoard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/component/bless/UNO/UNOBoard.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/UNO/UNOBridge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/component/bless/UNO/UNOBridge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/FrontEndNative_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/FrontEnd_fe.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/RateControl_pp_rc.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/component/bless/vvi_mode/VVI_i_pp_t.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/JSON.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/MsgPack.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/SlangCheckConfig.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/SlangCheckDataTypeId.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/SlangCheckGenerator.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/SlangCheckRandom.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/util/Container.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/data/bless/vvi_mode/CardiacDuration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/data/bless/vvi_mode/CardiacDuration.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/vvi_mode/RateControl_pp_rc__Containers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/data/bless/vvi_mode/VVI_i_pp_t__Containers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/GumboXDispatcher.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/GumboXRuntimeMonitor.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/GumboXRuntimeMonitor_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/HamrVision.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/HamrVisionRuntimeMonitorI_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/ModelInfo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/ObservationKind.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/RuntimeMonitor.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/runtimemonitor/RuntimeMonitor_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/vvi_mode/RateControl_pp_rc_EntryPoint_Companion.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/vvi_mode/RateControl_pp_rc_Injection_Service.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/vvi_mode/VVI_i_pp_t_EntryPoint_Companion.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/util/bless/vvi_mode/VVI_i_pp_t_Injection_Service.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/bridge/bless/vvi_mode/FrontEnd_fe_Test.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/system/bless/SystemTests.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/GumboXUtil.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/SystemTestSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/SystemTestSuiteSlang.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/util/MutableBase.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/util/UnitTestConfiguration.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/vvi_mode/FrontEnd_fe_ScalaTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/vvi_mode/FrontEnd_fe_TestApi.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/vvi_mode/RateControl_pp_rc_SystemTestAPI.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/util/bless/vvi_mode/VVI_i_pp_t_SystemTestAPI.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versions.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,51 +140,44 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2dk3jzsCuyO4W7vSuaHC3bcISmN" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2dyWsAuPBAHQlqxVD273TvYtoo6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/brianlarson/git/BLESS2Slang/VVI-Slang/src/main/bridge/bless",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.32068965",
+    "settings.editor.selected.configurable": "scala.compiler"
   }
-}</component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="bless.Demo" />
-      <module name="PG_i_Instance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bless.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/bridge/bless/" />
+      <recent name="$PROJECT_DIR$/src/main/component/bless" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration default="true" type="ScalaAmmoniteRunConfigurationType" factoryName="Ammonite" singleton="false">
       <setting name="execName" value="$USER_HOME$/git3/Sireum/bin/slang-run.sh" />
       <setting name="fileName" value="" />
       <setting name="scriptParameters" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.Slang Script Runner" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Demo" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ScalaProjectSettings">
     <option name="autoRunDelay" value="3000" />
@@ -85,22 +196,18 @@
     <option name="treatDocCommentAsBlockComment" value="true" />
     <option name="treatScratchFilesAsWorksheet" value="false" />
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa326d36-99b1-43d5-8d31-e6d504bf489f" name="Changes" comment="" />
-      <created>1710538387328</created>
+      <changelist id="bd926d5e-c521-4987-806a-4ce7d634b520" name="Changes" comment="" />
+      <created>1710981003103</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710538387328</updated>
+      <updated>1710981003103</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

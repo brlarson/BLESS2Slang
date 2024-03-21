@@ -62,15 +62,10 @@ val slangModule: Module = Module(
   deps = ISZ(),
   targets = ISZ(Target.Jvm),
   ivyDeps = ISZ("org.sireum.kekinian::library:",
-    "org.sireum.kekinian::hamr-vision:",
-    "com.github.kurbatov:firmata4j:",
-    "io.github.java-native:jssc:",
-    "com.github.kurbatov:firmata4j:"
-  ),
-
-  sources = for(m <- ISZ("art", "architecture", "bridge", "component", "data", "nix", "seL4Nix")) yield (Os.path("main") / m).string,
+                "org.sireum.kekinian::hamr-vision:"),
+  sources = for(m <- ISZ("art", "architecture", "bridge", "component", "data", "nix", "seL4Nix", "util")) yield (Os.path("main") / m).string,
   resources = ISZ(),
-  testSources = for (m <- ISZ("bridge", "util")) yield (Os.path("test") / m).string,
+  testSources = for (m <- ISZ("bridge", "system", "util")) yield (Os.path("test") / m).string,
   testResources = ISZ(),
   publishInfoOpt = None()
 )

@@ -20,10 +20,10 @@
               "value" : "Jvm"
             }
           ],
-          "ivyDeps" : ["org.sireum.kekinian::library:", "com.github.kurbatov:firmata4j:", "io.github.java-native:jssc:", "com.github.kurbatov:firmata4j:"],
-          "sources" : ["main\/art", "main\/architecture", "main\/bridge", "main\/component", "main\/data", "main\/nix", "main\/seL4Nix"],
+          "ivyDeps" : ["org.sireum.kekinian::library:", "org.sireum.kekinian::hamr-vision:"],
+          "sources" : ["main\/art", "main\/architecture", "main\/bridge", "main\/component", "main\/data", "main\/nix", "main\/seL4Nix", "main\/util"],
           "resources" : [],
-          "testSources" : ["test\/bridge", "test\/util"],
+          "testSources" : ["test\/bridge", "test\/system", "test\/util"],
           "testResources" : [],
           "publishInfoOpt" : {
             "type" : "None"

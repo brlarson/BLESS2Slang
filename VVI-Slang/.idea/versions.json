@@ -1,6 +1,6 @@
 {
   "type" : "HashSMap",
-  "size" : 46,
+  "size" : 45,
   "entries" : [
     [
       "com.lihaoyi::os-lib:",
@@ -96,7 +96,7 @@
     ],
     [
       "org.sireum::scalac-plugin:",
-      "4.20230828.9aebc14"
+      "4.20240304.36392ed"
     ],
     [
       "org.sireum.version.plugin.devkit",
@@ -144,7 +144,7 @@
     ],
     [
       "org.scalatest::scalatest::",
-      "3.2.16"
+      "3.2.18"
     ],
     [
       "org.sireum.version.plugin.plantuml",
@@ -152,7 +152,7 @@
     ],
     [
       "org.scala-lang:scala-library:",
-      "2.13.11"
+      "2.13.13"
     ],
     [
       "org.sireum.version.plugin.sireum-intellij-asm",
@@ -160,15 +160,11 @@
     ],
     [
       "org.sireum.kekinian::library:",
-      "5b462ddb00"
+      "c22e37ad75"
     ],
     [
       "org.sireum.slang-embedded-art::slang-embedded-art:",
-      "03203d2"
-    ],
-    [
-      "com.github.kurbatov:firmata4j:",
-      "2.3.8"
+      "7117e72"
     ],
     [
       "org.sireum:inspector-gui:",
@@ -179,12 +175,12 @@
       "0.6-SNAPSHOT"
     ],
     [
-      "org.sireum:inspector-capabilities:",
-      "0.6-SNAPSHOT"
+      "org.sireum.kekinian::hamr-vision:",
+      "c22e37ad75"
     ],
     [
-      "io.github.java-native:jssc:",
-      "2.9.4"
+      "org.sireum:inspector-capabilities:",
+      "0.6-SNAPSHOT"
     ]
   ]
 }

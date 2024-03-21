@@ -4,7 +4,131 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a377a70b-abef-4369-a333-d8e87b19faf8" name="Changes" comment="" />
+    <list default="true" id="a377a70b-abef-4369-a333-d8e87b19faf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/firmata4j_2_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.antlr.antlr4-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.mdoc-parser_2.13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.hamr-vision_2.13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/slf4j_api_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/project.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/bridge/bless/PG/FrontEnd_Api.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/bridge/bless/PG/FrontEnd_fe_Bridge.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/PG/FrontEndNative_Ext.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/PG/FrontEnd_fe.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/Scala.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/Scala.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.fasterxml.jackson.core.jackson-annotations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.fasterxml.jackson.core.jackson-annotations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.fasterxml.jackson.core.jackson-core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.fasterxml.jackson.core.jackson-core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.fasterxml.jackson.core.jackson-databind.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.fasterxml.jackson.core.jackson-databind.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.geirsson.metaconfig-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.geirsson.metaconfig-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.geirsson.metaconfig-pprint_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.geirsson.metaconfig-pprint_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.geirsson.metaconfig-typesafe-config_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.geirsson.metaconfig-typesafe-config_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.github.kurbatov.firmata4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.lihaoyi.fansi_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.lihaoyi.fansi_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.lihaoyi.os-lib_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.lihaoyi.os-lib_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.lihaoyi.sourcecode_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.lihaoyi.sourcecode_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.thesamet.scalapb.lenses_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.thesamet.scalapb.lenses_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.thesamet.scalapb.scalapb-runtime_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.thesamet.scalapb.scalapb-runtime_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.typesafe.config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/com.typesafe.config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/commons-io.commons-io.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/commons-io.commons-io.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/io.github.java-native.jssc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.apache.commons.commons-compress.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.apache.commons.commons-compress.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.apache.commons.commons-lang3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.apache.commons.commons-lang3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.jline.jline.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.jline.jline.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.kohsuke.github-api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.kohsuke.github-api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.ow2.asm.asm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.ow2.asm.asm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scala-lang.modules.scala-collection-compat_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scala-lang.modules.scala-collection-compat_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scala-lang.scalap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scala-lang.scalap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalactic.scalactic_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalactic.scalactic_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.common_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.common_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.parsers_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.parsers_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-cli_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-cli_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-config_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-config_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-dynamic_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-dynamic_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-interfaces.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-interfaces.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-sysops_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalafmt-sysops_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalameta_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.scalameta_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.trees_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalameta.trees_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-compatible.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-compatible.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-diagrams_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-diagrams_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-featurespec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-featurespec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-flatspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-flatspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-freespec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-freespec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-funspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-funspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-funsuite_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-funsuite_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-matchers-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-matchers-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-mustmatchers_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-mustmatchers_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-propspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-propspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-refspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-refspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-shouldmatchers_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-shouldmatchers_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-wordspec_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest-wordspec_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scalatest.scalatest_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scijava.native-lib-loader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.scream3r.jssc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.library-shared_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.library-shared_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.library_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.library_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.macros_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.macros_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.test_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.sireum.kekinian.test_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.slf4j.slf4j-api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.typelevel.paiges-core_2.13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/libraries/org.typelevel.paiges-core_2.13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/modules/PG_i_Instance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/modules/PG_i_Instance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/modules/VVI-Slang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/modules/VVI-Slang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/project.old.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/project.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/versions.old.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/bin/project.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/bin/project.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/architecture/bless/Demo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/architecture/bless/Demo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/bridge/bless/vvi_mode/FrontEnd_Api.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/bridge/bless/vvi_mode/FrontEnd_fe_Bridge.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/component/UNO/FirmataUtil.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/UNO/FirmataUtil.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/component/UNO/UNOBoard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/UNO/UNOBoard.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/component/UNO/UNOBridge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/UNO/UNOBridge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/vvi_mode/FrontEndNative_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/vvi_mode/FrontEnd_fe.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/vvi_mode/RateControl_pp_rc.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/component/bless/vvi_mode/VVI_i_pp_t.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/JSON.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/MsgPack.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/SlangCheckConfig.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/SlangCheckDataTypeId.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/SlangCheckGenerator.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/SlangCheckRandom.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/util/Container.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/vvi_mode/CardiacDuration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/vvi_mode/CardiacDuration.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/vvi_mode/RateControl_pp_rc__Containers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/data/bless/vvi_mode/VVI_i_pp_t__Containers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/GumboXDispatcher.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/GumboXRuntimeMonitor.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/GumboXRuntimeMonitor_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/HamrVision.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/HamrVisionRuntimeMonitorI_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/ModelInfo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/ObservationKind.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/RuntimeMonitor.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/runtimemonitor/RuntimeMonitor_Ext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/vvi_mode/RateControl_pp_rc_EntryPoint_Companion.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/vvi_mode/RateControl_pp_rc_Injection_Service.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/vvi_mode/VVI_i_pp_t_EntryPoint_Companion.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/main/util/bless/vvi_mode/VVI_i_pp_t_Injection_Service.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/bridge/bless/vvi_mode/FrontEnd_fe_Test.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/system/bless/SystemTests.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/GumboXUtil.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/SystemTestSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/SystemTestSuiteSlang.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/util/MutableBase.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/util/UnitTestConfiguration.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/vvi_mode/FrontEnd_fe_ScalaTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/vvi_mode/FrontEnd_fe_TestApi.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/vvi_mode/RateControl_pp_rc_SystemTestAPI.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/src/test/util/bless/vvi_mode/VVI_i_pp_t_SystemTestAPI.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VVI-Slang/versions.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +153,10 @@
     "Application.Demo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Demo">

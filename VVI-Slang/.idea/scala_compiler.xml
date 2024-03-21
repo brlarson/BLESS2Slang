@@ -17,7 +17,8 @@
       <parameter value="-language:postfixOps" />
     </parameters>
     <plugins>
-      <plugin path="/Users/brianlarson/git3/Sireum/lib/scalac-plugin-4.20230828.9aebc14.jar" />
+      <plugin path="$USER_HOME$/git3/Sireum/lib/scalac-plugin-4.20240304.36392ed.jar" />
     </plugins>
+    <option name="incrementalityType" value="IDEA" />
   </component>
 </project>

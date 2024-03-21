@@ -1,5 +1,5 @@
 //FirmataUtil.scala
-package UNO
+package bless.UNO
 
 import org.sireum._
 
